@@ -15,7 +15,9 @@ A Minecraft datapack to make slight tweaks and QOL improvements to Vanilla with 
 
 - Spiders and Cave Spiders now create Cobwebs periodically (Cave Spiders twice as fast as regular)
 
-- The End Dragon now drops an Elytra upon death
+- The Ender Dragon now drops an Elytra upon death
+
+- The first time a player kills the Ender Dragon it now spawns a Dragon Egg
 
 ## Current wish-list/not possible list:
 
@@ -26,6 +28,8 @@ A Minecraft datapack to make slight tweaks and QOL improvements to Vanilla with 
 ### Crafting
 
 - Add Recipe for Rockets for the Recipe book (currently seems bugged due to NBT tags on Rockets)
+
+- Smelting Iron/Gold tools yields 1 Iron Nugget per Iron Ingot used in the crafting of the original item (Two nuggets for a sword, three for a pickaxe etc)
 
 ### Mechanics
 
