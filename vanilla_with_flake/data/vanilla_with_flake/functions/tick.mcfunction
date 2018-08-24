@@ -19,6 +19,11 @@ execute as @e[tag=tick_counter,limit=1,scores={vwf_tick=1}] at @s run function v
 execute as @e[tag=tick_counter,limit=1,scores={vwf_tick=21}] at @s run function vanilla_with_flake:1second
 execute as @e[tag=tick_counter,limit=1,scores={vwf_tick=41}] at @s run function vanilla_with_flake:1second
 execute as @e[tag=tick_counter,limit=1,scores={vwf_tick=81}] at @s run function vanilla_with_flake:1second
+execute as @e[tag=tick_counter,limit=1,scores={vwf_tick=101}] at @s run function vanilla_with_flake:1second
+execute as @e[tag=tick_counter,limit=1,scores={vwf_tick=121}] at @s run function vanilla_with_flake:1second
+execute as @e[tag=tick_counter,limit=1,scores={vwf_tick=141}] at @s run function vanilla_with_flake:1second
+execute as @e[tag=tick_counter,limit=1,scores={vwf_tick=161}] at @s run function vanilla_with_flake:1second
+execute as @e[tag=tick_counter,limit=1,scores={vwf_tick=181}] at @s run function vanilla_with_flake:1second
 
 execute as @e[tag=tick_counter,limit=1,scores={vwf_tick=1}] at @s run function vanilla_with_flake:10second
 

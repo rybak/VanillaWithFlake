@@ -1,5 +1,5 @@
 # VanillaWithFlake
-A Minecraft datapack to make slight tweaks and QOL improvements to Vanilla with no mods
+A Minecraft datapack to make slight tweaks, restore removed/unused content, and QOL improvements to Vanilla with no mods
 
 ## Current change list:
 
@@ -11,11 +11,31 @@ A Minecraft datapack to make slight tweaks and QOL improvements to Vanilla with 
 
 - Leather now has a crafting recipe (9 Rotten Flesh)
 
+### Loot tables
+
+- The Ender Dragon now drops an Elytra upon death (temporary solution)
+
+#### Maps
+
+- Abandoned Mineshaft chests now have a chance to contain a *Jungle Explorer Map* (Jungle Explorer Map)
+
+- Husks now have a chance to drop *Ancient Pyramid Map* (Desert Pyramid Explorer Map) when killed by a player
+
+- Strays now have a chance to drop *Old Frozen Map* (Igloo Explorer Map) when killed by a player
+
+- Village Blacksmith's chests now contain an *Old Mineshaft Map* (Mineshaft Explorer Map)
+
+- Witches now have a chance to drop *Witch's Way Home* (Swamp Hut Explorer Map) when killed by a player
+
+- Zombies now have a chance to drop *Old Mineshaft Map* (Mineshaft Explorer Map) when killed by a player
+
+- Zombie Pigmen now have a chance to drop *Wonky Nether Fortress Map* (Fortress Explorer Map) when killed by a player
+
+- Zombie Villagers now have a chance to drop *Villager's Map Home* (Village Explorer Map) when killed by a player
+
 ### Mobs
 
 - Spiders and Cave Spiders now create Cobwebs periodically (Cave Spiders twice as fast as regular)
-
-- The Ender Dragon now drops an Elytra upon death
 
 - The first time a player kills the Ender Dragon it now spawns a Dragon Egg
 
@@ -44,3 +64,15 @@ A Minecraft datapack to make slight tweaks and QOL improvements to Vanilla with 
 - Mobs (Villagers?, Humanoids?) can ride Horses as a passenger, like boats
 
 - Shulkers respawn naturally (Over time, on killing Dragon?)
+
+- Implement Illusioners
+
+## Todo list
+
+### Mobs
+
+- Implement Evil Bunnies
+
+- Implement Illusioners
+
+- Possibly add End City maps
