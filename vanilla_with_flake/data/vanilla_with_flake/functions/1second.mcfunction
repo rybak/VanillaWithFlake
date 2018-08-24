@@ -3,4 +3,4 @@
 
 # This function is called every 1 second by vanilla_with_flake:tick
 
-#execute as @e[tag=tick_counter,limit=1,scores={vwf_tick=1}] at @s run give @s minecraft:acacia_button 1
+#function vanilla_with_flake:zombie_horse/zh_1second
