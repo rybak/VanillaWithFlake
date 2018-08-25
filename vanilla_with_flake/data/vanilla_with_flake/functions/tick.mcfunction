@@ -3,28 +3,32 @@
 
 # This function is called every game tick by tick.json
 
-#function vanilla_with_flake:core/GlowingZombies
-#function vanilla_with_flake:optionals/example
+# Increase tick count score
+scoreboard players add vwf vwf_tick 1
 
-# Give the tag "tick_counter" to a random player, unless a player already has that tag
-execute as @r unless entity @a[tag=tick_counter] run tag @s add tick_counter
+# Execute 1second function, every 1 second (20 ticks)
+execute if score vwf vwf_tick matches 1 run function vanilla_with_flake:1second
 
-# Give the player with the tag "tick_counter" 1 point in vwf_tick every tick
-scoreboard players add @a[tag=tick_counter] vwf_tick 1
+execute if score vwf vwf_tick matches 21 run function vanilla_with_flake:1second
 
+execute if score vwf vwf_tick matches 41 run function vanilla_with_flake:1second
 
-#execute as @e[tag=tick_counter,limit=1,scores={vwf_tick=1}] at @s run give @s minecraft:acacia_button 1
+execute if score vwf vwf_tick matches 61 run function vanilla_with_flake:1second
 
-execute as @e[tag=tick_counter,limit=1,scores={vwf_tick=1}] at @s run function vanilla_with_flake:1second
-execute as @e[tag=tick_counter,limit=1,scores={vwf_tick=21}] at @s run function vanilla_with_flake:1second
-execute as @e[tag=tick_counter,limit=1,scores={vwf_tick=41}] at @s run function vanilla_with_flake:1second
-execute as @e[tag=tick_counter,limit=1,scores={vwf_tick=81}] at @s run function vanilla_with_flake:1second
-execute as @e[tag=tick_counter,limit=1,scores={vwf_tick=101}] at @s run function vanilla_with_flake:1second
-execute as @e[tag=tick_counter,limit=1,scores={vwf_tick=121}] at @s run function vanilla_with_flake:1second
-execute as @e[tag=tick_counter,limit=1,scores={vwf_tick=141}] at @s run function vanilla_with_flake:1second
-execute as @e[tag=tick_counter,limit=1,scores={vwf_tick=161}] at @s run function vanilla_with_flake:1second
-execute as @e[tag=tick_counter,limit=1,scores={vwf_tick=181}] at @s run function vanilla_with_flake:1second
+execute if score vwf vwf_tick matches 81 run function vanilla_with_flake:1second
 
-execute as @e[tag=tick_counter,limit=1,scores={vwf_tick=1}] at @s run function vanilla_with_flake:10second
+execute if score vwf vwf_tick matches 101 run function vanilla_with_flake:1second
 
-scoreboard players set @a[tag=tick_counter,limit=1,scores={vwf_tick=200..}] vwf_tick 0
+execute if score vwf vwf_tick matches 121 run function vanilla_with_flake:1second
+
+execute if score vwf vwf_tick matches 141 run function vanilla_with_flake:1second
+
+execute if score vwf vwf_tick matches 161 run function vanilla_with_flake:1second
+
+execute if score vwf vwf_tick matches 181 run function vanilla_with_flake:1second
+
+# Execute 10second function, every 10 seconds (200 ticks)
+execute if score vwf vwf_tick matches 200 run function vanilla_with_flake:10second
+
+# Every 200 ticks (10 seconds), reset the score back to 0 (will be 1 again next tick)
+execute if score vwf vwf_tick matches 200 run scoreboard players set vwf vwf_tick 0

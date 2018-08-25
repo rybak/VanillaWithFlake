@@ -1,5 +1,5 @@
 # VanillaWithFlake
-A Minecraft datapack to make slight tweaks, restore removed/unused content, and QOL improvements to Vanilla with no mods
+A Minecraft datapack to make slight tweaks, restore removed/unused content, and other QOL improvements to Vanilla with no mods
 
 ## Current change list:
 
@@ -11,9 +11,15 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 
 - Leather now has a crafting recipe (9 Rotten Flesh)
 
+### Items
+
+- Arrows of Blindness (0:30) are now obtainable through Illusioners *(Note: Seemingly a bug with Arrows of Blindness makes the effect duration 8 times longer than it should be, therefore the Arrows state 4 seconds in their tooltip, however they last 32 seconds)*
+
 ### Loot tables
 
 - The Ender Dragon now drops an Elytra upon death (temporary solution to End Dimension issues)
+
+- Illusioners now drop between 1-3 (4-9 with Looting III) *Arrows of Blindness* when killed by a player
 
 #### Maps
 
@@ -38,6 +44,8 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - Spiders and Cave Spiders now create Cobwebs periodically (Cave Spiders twice as fast as regular)
 
 - The first time a player kills the Ender Dragon it now spawns a Dragon Egg
+
+- Illusioners now spawn in Woodland Mansions, for every 5 Vindicators 1 Illusioner spawns
 
 ## Current wish-list/not possible list:
 
@@ -66,6 +74,12 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - Shulkers respawn naturally (Over time, on killing Dragon?)
 
 ## Todo list
+
+### Effects
+
+- Implement Health Boost
+
+- Implement Luck
 
 ### Mobs
 

@@ -4,4 +4,3 @@
 # This function is called every 1 second by vanilla_with_flake:tick
 
 function vanilla_with_flake:spiders_drop_webs/sdw_10second
-#function vanilla_with_flake:zombie_horse/zh_10second
