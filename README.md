@@ -17,6 +17,7 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 
 ### Loot tables
 
+#### General
 - The Ender Dragon now drops an Elytra upon death (temporary solution to End Dimension issues)
 
 - Illusioners now drop between 1-3 (4-9 with Looting III) *Arrows of Blindness* when killed by a player
@@ -61,12 +62,12 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 
 ### Mechanics
 
-- Remove Mending, and remove the repair penalty/anvil use count for Repairing items
+- Remove Mending, and remove the repair penalty/anvil use count for Repairing items (so lategame diamonds have meaning again, instead of using an XP farm to fix items)
 
 ### Mobs
 
 - Zombies attack Horses and turn them into Zombie Horses (same as villagers)
-
+*(and/or)*
 - Horses stuck by lightning turn into Zombie Horses
  
 - Mobs (Villagers?, Humanoids?) can ride Horses as a passenger, like boats
@@ -86,8 +87,6 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - Implement Giants (lol)
 
 - Implement Evil Bunnies
-
-- Implement Illusioners
 
 - Implement Zombie Horses
 
