@@ -16,6 +16,7 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 #### General
 - Ender Dragons now drop an Elytra upon death (temporary solution to End Dimension issues)
 - Illusioners now drop between 1-3 (4-9 with Looting III) *Arrows of Blindness* when killed by a player
+- Killer Bunnies, in addition to regular Rabbit drops, have a chance to drop Golden Carrots
 
 #### Maps
 - Abandoned Mineshaft chests now have a chance to contain a *Jungle Explorer Map* (Jungle Explorer Map)
@@ -28,10 +29,10 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - Zombie Villagers now have a chance to drop *Villager's Map Home* (Village Explorer Map) when killed by a player
 
 ### Mobs
+- If a Rabbit picks up a Rotten Flesh at night during a full Moon will turn the rabbit into an Killer Bunny
 - Illusioners now spawn in Woodland Mansions, for every 5 Vindicators 1 Illusioner spawns
 - Spiders and Cave Spiders now create Cobwebs periodically (Cave Spiders twice as fast as regular)
 - The first time a player kills the Ender Dragon it now spawns a Dragon Egg
-- Throwing Rotten Flesh at a Rabbit, at night during a full Moon will turn the rabbit into an Killer Bunny
 - Withers now escape Bedrock when they reach 50% Health (This is to nerf killing Withers with Bedrock, but still allow the technique to have a use for making the fight easier and to not break redstone machines that rely upon Bedrock cages)
 
 ## Current wish-list/not possible list:
