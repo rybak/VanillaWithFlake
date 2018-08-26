@@ -7,5 +7,6 @@ scoreboard objectives add vwf_tick dummy "Game Tick"
 
 function vanilla_with_flake:spiders_drop_webs/sdw_init
 function vanilla_with_flake:illusioner/i_init
+function vanilla_with_flake:wither_escapes_bedrock/web_init
 
 #function vanilla_with_flake:zombie_horse/zh_init

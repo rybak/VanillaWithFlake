@@ -4,3 +4,4 @@
 # This function is called every 1 second by vanilla_with_flake:tick
 
 function vanilla_with_flake:illusioner/i_1second
+function vanilla_with_flake:wither_escapes_bedrock/web_1second
