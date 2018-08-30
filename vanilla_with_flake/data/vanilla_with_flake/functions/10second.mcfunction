@@ -8,6 +8,6 @@ scoreboard players set 10Seconds vwf_tick 0
 
 scoreboard players add 60Seconds vwf_tick 10
 
-execute if score 60Seconds vwf_tick matches 60 run function vanilla_with_flake:1minute
+execute if score 60Seconds vwf_tick >= 60 vwf_constants run function vanilla_with_flake:1minute
 
 function vanilla_with_flake:spiders_drop_webs/sdw_10second
