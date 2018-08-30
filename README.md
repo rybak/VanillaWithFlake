@@ -32,9 +32,9 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 ### Mobs
 - If a Rabbit picks up a Rotten Flesh at night during a full Moon it will turn into a Killer Bunny
 - Illusioners now spawn in Woodland Mansions, for every 5 Vindicators 1 Illusioner spawns
-- Only Wither Skeletons now spawn in the Nether (Any Skeletons that spawn are replaced by Wither Skeletons wielding Bows)
 - Spiders and Cave Spiders now create Cobwebs periodically (Cave Spiders twice as fast as regular)
 - The first time a player kills the Ender Dragon it now spawns a Dragon Egg
+- Wither Skeletons now replace Skeletons in the Nether (Any Wither Skeletons spawned this way now wield bows)
 - Withers now escape Bedrock when they reach 50% Health (This is to nerf killing Withers with Bedrock, but still allow the technique to have a use for making the fight easier and to not break redstone machines that rely upon Bedrock cages)
 - When a Squid is damaged it casts Blindness on any entities around them
 
@@ -53,7 +53,7 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 ### Mobs
 - Mobs (Villagers?, Humanoids?) can ride Horses as a passenger, like boats
 - Zombies attack Horses and turn them into Zombie Horses (same as villagers) *(and/or)* Horses stuck by lightning turn into Zombie Horses
-- Wither Skeletons wielding bows spawn with Arrows of WIthering (not possible due to https://bugs.mojang.com/browse/MC-106133)
+- Wither Skeletons wielding bows use Arrows of Withering (not possible due to https://bugs.mojang.com/browse/MC-106133, currently the arrow is always on fire instead)
  
 ## Todo list
 
