@@ -10,7 +10,8 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - Smooth Stone now has a crafting recipe (2 Stone Slabs vertically)
 
 ### Items
-- Arrows of Blindness (0:30) are now obtainable through Illusioners *(Note: Seemingly a bug with Arrows of Blindness makes the effect duration 8 times longer than it should be, therefore the Arrows state 4 seconds in their tooltip, however they last 32 seconds)*
+- Arrows of Blindness (0:30) are now obtainable through Illusioners *(Note: Seemingly a bug with custom Arrows makes the effect duration ~8 times longer than it should be, therefore the Arrows state 4 seconds in their tooltip, however they last 30 seconds)*
+- Arrows of Withering (0:10) are now obtainable through Wither Skeletons *(Note: Seemingly a bug with custom Arrows makes the effect duration ~8 times longer than it should be, therefore the Arrows state 1 second in their tooltip, however they last 10 seconds)*
 
 ### Loot tables
 #### General
@@ -41,6 +42,7 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 ## Current wish-list/not possible list:
 
 ### Blocks
+- Beacon includes Mining Fatigue effect as an option (to protect bases?)
 - Redstone Torches no longer give light updates/emit light
 
 ### Crafting
@@ -58,7 +60,6 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 ## Todo list
 
 ### Effects
-- Beacon includes Mining Fatigue effect as an option (to protect bases?)
 - Implement Bad Luck
 - Implement Blindness (more)
 - Implement Health Boost
