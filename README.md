@@ -40,6 +40,7 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 ## Current wish-list/not possible list:
 ### Blocks
 - Beacon includes Mining Fatigue effect as an option (to protect bases?)
+- Beacon like block to prevent mobs from spawning [Idea from ThiagoJaqueta](https://twitter.com/ThiagoJaqueta/status/1035279714443780096)
 - Redstone Torches no longer give light updates/emit light
 
 ### Crafting
