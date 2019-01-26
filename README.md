@@ -3,10 +3,8 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 
 ## Current change list:
 ### Crafting
-- All Stair recipes now yield 8 Stairs instead of 4
 - Enchanted Golden Apple now has a crafting recipe again (8 Golden Blocks surrounding a *Golden Apple*)
 - Rabbit Hide now has a crafting recipe (9 Rotten Flesh, this allows 36 Rotten Flesh to be crafted into 1 Leather)
-- Smooth Stone now has a crafting recipe (2 Stone Slabs vertically)
 
 ### Items
 - Arrows *(Note: Seemingly a bug with custom Arrows makes the effect duration ~8 times longer than it should be. For example: the arrow may state 1 second in their tooltip, however they last 10 seconds)*
@@ -32,7 +30,7 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - If a Rabbit picks up a Rotten Flesh at night during a full Moon it will turn into a Killer Bunny
 - Illusioners now spawn in Woodland Mansions, for every 5 Vindicators 1 Illusioner spawns
 - Spiders and Cave Spiders now create Cobwebs periodically (Cave Spiders twice as fast as regular)
-- The first time a player kills the Ender Dragon it now spawns a Dragon Egg
+- The first time a player kills the Ender Dragon it now spawns a Dragon Egg (So 1 per player)
 - Wither Skeletons now replace Skeletons in the Nether (Any Wither Skeletons spawned this way now wield bows)
 - Withers now escape Bedrock when they reach 50% Health (This is to nerf killing Withers with Bedrock, but still allow the technique to have a use for making the fight easier and to not break redstone machines that rely upon Bedrock cages)
 - When a Squid is damaged it casts Blindness on any entities around them
@@ -61,6 +59,9 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - Implement Blindness (more)
 - Implement Health Boost
 
+### Environment
+- Implement missing environment sounds (Birds chirping during day, owls and crickets at night, etc) 
+
 ### Items
 - Add Trident fixing recipe (Like Phantom Membrane for Elytra, or Iron for Iron Tools/Armour)(Mainly needed if Mending+Fixing Cap is removed)
 - Dual Wielding Axes (Axes can also attack with right click)
@@ -73,3 +74,12 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - Implement Giants (Probably not...)
 - Implement Zombie Horses
 - Shulkers respawn naturally (Over time, on killing Dragon?)
+---
+## Old changes which were implemented into official release (thus removed)
+### Crafting
+- All Stair recipes now yield 8 Stairs instead of 4 
+- - [19w04a](https://minecraft.gamepedia.com/19w04a) added Stonecutter which gives 1 Stair for 1 Block
+- - (YET TO BE REMOVED FROM VWF)
+- Smooth Stone now has a crafting recipe (2 Stone Slabs vertically)
+- - A 1.14 snapshot added this block into survival 
+- - (YET TO BE REMOVED FROM VWF)
