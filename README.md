@@ -5,7 +5,7 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 ### Crafting
 - Enchanted Golden Apple now has a crafting recipe again (8 Golden Blocks surrounding a *Golden Apple*)
 - Rabbit Hide now has a crafting recipe (9 Rotten Flesh, this allows 36 Rotten Flesh to be crafted into 1 Leather)
-- Saddles now the [originally intended crafting recipe](https://minecraft.gamepedia.com/Java_Edition_removed_features#Horse_saddle) for "Horse Saddles"
+- Saddles now have the [originally intended crafting recipe](https://minecraft.gamepedia.com/Java_Edition_removed_features#Horse_saddle) for "Horse Saddles"
 
 ### Items
 - Arrows *(Note: Seemingly a bug with custom Arrows makes the effect duration ~8 times longer than it should be. For example: the arrow may state 1 second in their tooltip, however they last 10 seconds)*
