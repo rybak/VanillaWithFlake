@@ -294,7 +294,7 @@
 				"destination": "Jungle Temple",
 				"decoration": "red_x",
 				"skip_existing_chunks": false,
-				"search_radius": 250
+				"search_radius": 2500
 			},
 			{
 				"function": "set_name",

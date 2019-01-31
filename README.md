@@ -1,5 +1,5 @@
 # VanillaWithFlake
-A Minecraft datapack to make slight tweaks, restore removed/unused content, and other QOL improvements to Vanilla with simplicity and optimisation in mind.
+A Minecraft datapack to make slight tweaks, restore removed/unused content, and other QOL improvements to Vanilla with simplicity and optimisation in mind. This version is made for 1.14 (currently being snapshot-ed)
 
 ## Current change list:
 ### Crafting
@@ -72,6 +72,7 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - Implement Missing Potions/Splash Potions/Lingering Potions/Tipped Arrows
 - Implement Rubies
 - Both Blue Orchids and Dandelions give Saturation in the Suspicious Stew, instead make Blue Orchid give a [Health Boost](https://minecraft.gamepedia.com/Java_Edition_unused_features#Health_Boost)?
+- Make Wither Skeletons less RNG based/more fun to collect?
 
 ### Mechanics
 - Nerf AFK Fishing (The more you fish the worse the rewards? (The water runs out of fish))
