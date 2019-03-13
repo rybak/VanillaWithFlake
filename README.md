@@ -28,6 +28,10 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - - Zombie Villagers now have a chance to drop *Villager's Map Home* (Village Explorer Map) when killed by a player
 - Removed Saddles from Fishing's Treasure, Abandoned Mineshaft, Desert Temple, End City, Jungle Temple, Nether Fortress, Dungeon and Stronghold Loot tables. (It remains in Villager Trades, Villager Buildings and Illager Beast loot tables)
 
+### Mechanics
+- Added Bad Luck mechanic to Fishing 
+- - Fishing a lot in a short span of time exponentially increases your Bad Luck, which makes your fishing loot worse. This is to both simulate overfishing in one area and to nerf AFK fishing farms (mainly the latter).
+
 ### Mobs
 - If a Rabbit picks up a Rotten Flesh at night during a full Moon it will turn into a Killer Bunny
 - Illusioners now spawn in Woodland Mansions, for every 5 Vindicators 1 Illusioner spawns
@@ -67,8 +71,9 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 ## Todo list
 ### Effects
 - Implement Bad Luck
-- - Use Bad Luck to nerf AFK fishing, by increasing the player's bad luck overtime when fishing
-- Implement Blindness (more)
+- - Currently used with Bad Luck Fishing, but would be good to implement more along with the other effects
+- Implement Blindness
+- - Currently used by Squids, but would be good to implement more along with the other effects
 - Implement Health Boost
 
 ### Items
@@ -80,9 +85,6 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - Implement Rubies
 - Both Blue Orchids and Dandelions give Saturation in the Suspicious Stew, instead make Blue Orchid give a [Health Boost](https://minecraft.gamepedia.com/Java_Edition_unused_features#Health_Boost)?
 - Make Wither Skeletons less RNG based/more fun to collect?
-
-### Mechanics
-- Nerf AFK Fishing (The more you fish the worse the rewards? (The water runs out of fish))
 
 ### Mobs
 - Implement Giants (Probably not...)
