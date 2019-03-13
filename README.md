@@ -40,11 +40,14 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 ## Current wish-list/not possible list:
 ### Items
 - Add missing Leather Horse Armour (from Bedrock version)
+- Add alternate Hopper that doesn't attempt to suck items from above it (To reduce lag when just a pipe is needed)
+- - Perhaps with glass instead of iron? To make a tube?
 
 ### Blocks
 - Beacon includes Mining Fatigue effect as an option (to protect bases?)
 - Beacon like block to prevent mobs from spawning [Idea from ThiagoJaqueta](https://twitter.com/ThiagoJaqueta/status/1035279714443780096)
 - Redstone Torches no longer give light updates/emit light
+- Make Piston a Pickaxe tool block (instead of having no tool needed)
 
 ### Crafting
 - Add Recipe for Rockets for the Recipe book (currently seems bugged due to NBT tags on Rockets)
@@ -57,10 +60,14 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - Mobs (Villagers?, Humanoids?) can ride Horses as a passenger, like boats
 - Zombies attack Horses and turn them into Zombie Horses (same as villagers) *(and/or)* Horses stuck by lightning turn into Zombie Horses
 - Wither Skeletons wielding bows use Arrows of Withering (not possible due to [MC-106133](https://bugs.mojang.com/browse/MC-106133), currently the arrow is always on fire instead)
+
+### GUI
+- Visual Shulkerbox contents tooltip
 ---
 ## Todo list
 ### Effects
 - Implement Bad Luck
+- - Use Bad Luck to nerf AFK fishing, by increasing the player's bad luck overtime when fishing
 - Implement Blindness (more)
 - Implement Health Boost
 
