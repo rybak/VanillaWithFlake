@@ -7,3 +7,4 @@
 scoreboard players set 60Seconds vwf_tick 0
 
 function vanilla_with_flake:moon_phase/mp_1minute
+function vanilla_with_flake:bad_luck_fishing/blf_1minute
