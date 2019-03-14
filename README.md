@@ -43,7 +43,6 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 ---
 ## Current wish-list/not possible list:
 ### Items
-- Add missing Leather Horse Armour (from Bedrock version)
 - Add alternate Hopper that doesn't attempt to suck items from above it (To reduce lag when just a pipe is needed)
 - - Perhaps with glass instead of iron? To make a tube?
 
@@ -95,12 +94,15 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - Implement missing environment sounds (Birds chirping during day, owls and crickets at night, etc)
 - Make untamed Wolves howl occasionally (Perhaps one after the other in packs?)
 ---
-## Old changes which were implemented into official release (thus removed)
+## Old changes which were implemented into official release (thus removed from datapack or plans)
 ### Crafting
-- All Stair recipes now yield 8 Stairs instead of 4 
+- All Stair recipes now yield 8 Stairs instead of 4
 - - [19w04a](https://minecraft.gamepedia.com/19w04a) added Stonecutter which gives 1 Stair for 1 Block
 - Smooth Stone now has a crafting recipe (2 Stone Slabs vertically)
 - - [1.14](https://minecraft.gamepedia.com/1.14) added this block into survival 
+
+### Items
+- Add missing Leather Horse Armour (from Bedrock version)
 
 ### Loot tables
 - Village Blacksmith's chests now contain an *Old Mineshaft Map* (Mineshaft Explorer Map)
