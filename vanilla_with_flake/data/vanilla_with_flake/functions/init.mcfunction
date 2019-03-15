@@ -18,4 +18,5 @@ function vanilla_with_flake:moon_phase/mp_init
 function vanilla_with_flake:squid_blind/sb_init
 function vanilla_with_flake:bad_luck_fishing/blf_init
 
+#function vanilla_with_flake:remove_empty_boats/reb_init
 #function vanilla_with_flake:zombie_horse/zh_init

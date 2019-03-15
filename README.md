@@ -4,6 +4,7 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 ## Current change list:
 ### Crafting
 - Enchanted Golden Apple now has a crafting recipe again (8 Golden Blocks surrounding a *Golden Apple*)
+- Leads no longer require Slimeballs, instead need 5 String in the original shape
 - Rabbit Hide now has a crafting recipe (9 Rotten Flesh, this allows 36 Rotten Flesh to be crafted into 1 Leather)
 - Saddles now have the [originally intended crafting recipe](https://minecraft.gamepedia.com/Java_Edition_removed_features#Horse_saddle) for "Horse Saddles"
 
@@ -27,6 +28,8 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - - Zombie Pigmen now have a chance to drop *Wonky Nether Fortress Map* (Fortress Explorer Map) when killed by a player
 - - Zombie Villagers now have a chance to drop *Villager's Map Home* (Village Explorer Map) when killed by a player
 - Removed Saddles from Fishing's Treasure, Abandoned Mineshaft, Desert Temple, End City, Jungle Temple, Nether Fortress, Dungeon and Stronghold Loot tables. (It remains in Villager Trades, Villager Buildings and Illager Beast loot tables)
+- Horses and Donkeys now drop Raw Horse and Raw Donkey, respectively
+- - For now, Raw Horse and Raw Donkey are just renamed Raw Mutton (until custom items can be added)
 
 ### Mechanics
 - Added Bad Luck mechanic to Fishing 
@@ -45,6 +48,7 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 ### Items
 - Add alternate Hopper that doesn't attempt to suck items from above it (To reduce lag when just a pipe is needed)
 - - Perhaps with glass instead of iron? To make a tube?
+- Add Raw Horse and Raw Donkey (And Cooked versions) as their own meat types, instead of renamed Mutton
 
 ### Blocks
 - Beacon includes Mining Fatigue effect as an option (to protect bases?)
