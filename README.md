@@ -62,6 +62,7 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 
 ### Mechanics
 - Remove Mending, and remove the repair penalty/anvil use count for Repairing items (so lategame diamonds have meaning again, instead of using an XP farm to fix items)
+- Increase maximum Minecart Speed
 
 ### Mobs
 - Mobs (Villagers?, Humanoids?) can ride Horses as a passenger, like boats
