@@ -28,8 +28,6 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - - Zombie Pigmen now have a chance to drop *Wonky Nether Fortress Map* (Fortress Explorer Map) when killed by a player
 - - Zombie Villagers now have a chance to drop *Villager's Map Home* (Village Explorer Map) when killed by a player
 - Removed Saddles from Fishing's Treasure, Abandoned Mineshaft, Desert Temple, End City, Jungle Temple, Nether Fortress, Dungeon and Stronghold Loot tables. (It remains in Villager Trades, Villager Buildings and Illager Beast loot tables)
-- Horses and Donkeys now drop Raw Horse and Raw Donkey, respectively
-- - For now, Raw Horse and Raw Donkey are just renamed Raw Mutton (until custom items can be added)
 
 ### Mechanics
 - Added Bad Luck mechanic to Fishing 
@@ -48,7 +46,7 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 ### Items
 - Add alternate Hopper that doesn't attempt to suck items from above it (To reduce lag when just a pipe is needed)
 - - Perhaps with glass instead of iron? To make a tube?
-- Add Raw Horse and Raw Donkey (And Cooked versions) as their own meat types, instead of renamed Mutton
+- Add Raw Horse and Raw Donkey (And Cooked versions) as their own meat types
 
 ### Blocks
 - Beacon includes Mining Fatigue effect as an option (to protect bases?)
@@ -69,6 +67,10 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - Zombies attack Horses and turn them into Zombie Horses (same as villagers) *(and/or)* Horses stuck by lightning turn into Zombie Horses
 - Wither Skeletons wielding bows use Arrows of Withering (not possible due to [MC-106133](https://bugs.mojang.com/browse/MC-106133), currently the arrow is always on fire instead)
 - [Phantoms only appear to the player they are attacking](https://www.reddit.com/r/minecraftsuggestions/comments/a6vrua/only_the_players_who_havent_slept_can_see_hear/)
+
+### Loot Tables
+- Horses and Donkeys drop Raw Horse and Raw Donkey, respectively
+- - Raw Horse and Raw Donkey could just be renamed Raw Mutton, and Cooked Horse/Donkey can be dropped if killed while on fire, however Furnaces cannot rename items, so cooking Horse/Donkey would just result in Mutton
 
 ### GUI
 - Visual Shulkerbox contents tooltip
