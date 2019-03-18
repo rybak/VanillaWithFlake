@@ -68,6 +68,7 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - Mobs (Villagers?, Humanoids?) can ride Horses as a passenger, like boats
 - Zombies attack Horses and turn them into Zombie Horses (same as villagers) *(and/or)* Horses stuck by lightning turn into Zombie Horses
 - Wither Skeletons wielding bows use Arrows of Withering (not possible due to [MC-106133](https://bugs.mojang.com/browse/MC-106133), currently the arrow is always on fire instead)
+- [Phantoms only appear to the player they are attacking](https://www.reddit.com/r/minecraftsuggestions/comments/a6vrua/only_the_players_who_havent_slept_can_see_hear/)
 
 ### GUI
 - Visual Shulkerbox contents tooltip
@@ -88,9 +89,13 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - Implement Missing Potions/Splash Potions/Lingering Potions/Tipped Arrows
 - Implement Rubies
 - Both Blue Orchids and Dandelions give Saturation in the Suspicious Stew, instead make Blue Orchid give a [Health Boost](https://minecraft.gamepedia.com/Java_Edition_unused_features#Health_Boost)?
-- Make Wither Skeletons less RNG based/more fun to collect?
+- Make Wither Skulls less RNG based/more fun to collect?
+- Make Totem of Undying actually useful
+- - [This suggestion is one way](https://www.reddit.com/r/minecraftsuggestions/comments/944co2/totems_of_undying_are_not_worth_getting_here_is/)
+- - Another is to make the Totem consumable like a Potion, giving the player a permanent effect which revives them on death once (to remove the need to be holding it at time of death) However this doesn't solve the rarity issue
 
 ### Mobs
+- [Drowned occasionally spawn wearing a Turtle Shell](https://www.reddit.com/r/minecraftsuggestions/comments/b2cb7c/drowned_should_have_a_chance_of_spawning_with_a/)
 - Implement Giants (Probably not...)
 - Implement Zombie Horses (And give them a purpose)
 - Shulkers respawn naturally (Over time, on killing Dragon?)
