@@ -19,15 +19,6 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - Illusioners now drop between 1-3 (4-9 with Looting III) *Arrows of Blindness* when killed by a player
 - Killer Bunnies, in addition to regular Rabbit drops, have a chance to drop Golden Carrots
 - Wither Skeletons spawned wielding a bow in place of regular Skeletons in the Nether now have a chance to drop *Arrows of Withering* when killed by a player
-- Added lots of Maps:
-- - Abandoned Mineshaft chests now have a chance to contain a *Jungle Explorer Map* (Jungle Explorer Map)
-- - Husks now have a chance to drop *Ancient Pyramid Map* (Desert Pyramid Explorer Map) when killed by a player
-- - Strays now have a chance to drop *Old Frozen Map* (Igloo Explorer Map) when killed by a player
-- - Village Cartographer's chests now contain an *Old Mineshaft Map* (Mineshaft Explorer Map)
-- - Witches now have a chance to drop *Witch's Way Home* (Swamp Hut Explorer Map) when killed by a player
-- - Zombies now have a chance to drop *Old Mineshaft Map* (Mineshaft Explorer Map) when killed by a player
-- - Zombie Pigmen now have a chance to drop *Wonky Nether Fortress Map* (Fortress Explorer Map) when killed by a player
-- - Zombie Villagers now have a chance to drop *Villager's Map Home* (Village Explorer Map) when killed by a player
 - Removed Saddles from Fishing's Treasure, Abandoned Mineshaft, Desert Temple, End City, Jungle Temple, Nether Fortress, Dungeon and Stronghold Loot tables. (It remains in Villager Trades, Villager Buildings and Illager Beast loot tables)
 
 ### Mechanics
@@ -73,6 +64,15 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 ### Loot Tables
 - Horses and Donkeys drop Raw Horse and Raw Donkey, respectively
 - - Raw Horse and Raw Donkey could just be renamed Raw Mutton, and Cooked Horse/Donkey can be dropped if killed while on fire, however Furnaces cannot rename items, so cooking Horse/Donkey would just result in Mutton
+- Added lots of Maps: (Had to remove because of maps not correctly generating as causing lag spikes)
+- - Abandoned Mineshaft chests now have a chance to contain a *Jungle Explorer Map* (Jungle Explorer Map)
+- - Husks now have a chance to drop *Ancient Pyramid Map* (Desert Pyramid Explorer Map) when killed by a player
+- - Strays now have a chance to drop *Old Frozen Map* (Igloo Explorer Map) when killed by a player
+- - Village Cartographer's chests now contain an *Old Mineshaft Map* (Mineshaft Explorer Map)
+- - Witches now have a chance to drop *Witch's Way Home* (Swamp Hut Explorer Map) when killed by a player
+- - Zombies now have a chance to drop *Old Mineshaft Map* (Mineshaft Explorer Map) when killed by a player
+- - Zombie Pigmen now have a chance to drop *Wonky Nether Fortress Map* (Fortress Explorer Map) when killed by a player
+- - Zombie Villagers now have a chance to drop *Villager's Map Home* (Village Explorer Map) when killed by a player
 
 ### GUI
 - Visual Shulkerbox contents tooltip
