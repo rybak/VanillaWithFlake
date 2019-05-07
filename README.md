@@ -48,6 +48,7 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - Add alternate Hopper that doesn't attempt to suck items from above it (To reduce lag when just a pipe is needed)
 - - Perhaps with glass instead of iron? To make a tube?
 - Add Raw Horse and Raw Donkey (And Cooked versions) as their own meat types
+- Horseshoe that gives good luck when held (like in your offhand)
 
 ### Blocks
 - Beacon includes Mining Fatigue effect as an option (to protect bases?)
@@ -96,6 +97,7 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - Make Totem of Undying actually useful
 - - [This suggestion is one way](https://www.reddit.com/r/minecraftsuggestions/comments/944co2/totems_of_undying_are_not_worth_getting_here_is/)
 - - Another is to make the Totem consumable like a Potion, giving the player a permanent effect which revives them on death once (to remove the need to be holding it at time of death) However this doesn't solve the rarity issue
+- Give Axes Looting
 
 ### Mobs
 - [Drowned occasionally spawn wearing a Turtle Shell](https://www.reddit.com/r/minecraftsuggestions/comments/b2cb7c/drowned_should_have_a_chance_of_spawning_with_a/)
