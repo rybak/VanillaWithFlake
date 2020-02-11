@@ -113,6 +113,7 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 ## Old changes which were implemented into official release (thus removed from datapack or plans)
 ### Blocks
 - Make Piston a Pickaxe tool block (instead of having no tool needed)
+- - [20w06a](https://minecraft.gamepedia.com/Java_Edition_20w06a) "Pickaxes are now more efficient on pistons"
 
 ### Crafting
 - All Stair recipes now yield 8 Stairs instead of 4
