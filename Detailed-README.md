@@ -1,5 +1,5 @@
 # VanillaWithFlake
-A Minecraft datapack to make slight tweaks, restore removed/unused content, and other QOL improvements to Vanilla with simplicity and optimisation in mind. This version is made for 1.14+
+A Minecraft datapack to make slight tweaks, restore removed/unused content, and other QOL improvements to Vanilla with simplicity and optimisation in mind. This version is made for 1.16
 
 ## Current change list:
 ### Crafting
@@ -48,7 +48,6 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - Beacon includes Mining Fatigue effect as an option (to protect bases?)
 - Beacon like block to prevent mobs from spawning [Idea from ThiagoJaqueta](https://twitter.com/ThiagoJaqueta/status/1035279714443780096)
 - Redstone Torches no longer give light updates/emit light
-- Make Piston a Pickaxe tool block (instead of having no tool needed)
 
 ### Crafting
 - Add Recipe for Rockets for the Recipe book (currently seems bugged due to NBT tags on Rockets)
@@ -112,6 +111,9 @@ A Minecraft datapack to make slight tweaks, restore removed/unused content, and 
 - Make untamed Wolves howl occasionally (Perhaps one after the other in packs?)
 ---
 ## Old changes which were implemented into official release (thus removed from datapack or plans)
+### Blocks
+- Make Piston a Pickaxe tool block (instead of having no tool needed)
+
 ### Crafting
 - All Stair recipes now yield 8 Stairs instead of 4
 - - [19w04a](https://minecraft.gamepedia.com/19w04a) added Stonecutter which gives 1 Stair for 1 Block
